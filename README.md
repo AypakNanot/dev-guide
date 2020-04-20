@@ -30,3 +30,12 @@ TIOBE
 -----------------------------------
 
 - 语言排名[https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)
+
+
+java设计
+-----------------------------------
+
+- 魔鬼在细节[http://dubbo.apache.org/zh-cn/docs/dev/principals/code-detail.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/code-detail.html)
+- 设计上的基本常识[http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html)
+
+
