@@ -37,5 +37,6 @@ java设计
 
 - 魔鬼在细节[http://dubbo.apache.org/zh-cn/docs/dev/principals/code-detail.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/code-detail.html)
 - 设计上的基本常识[http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html)
-
+- 配置设计[http://dubbo.apache.org/zh-cn/docs/dev/principals/configuration.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/configuration.html)
+- 设计实现的健壮性[http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html)
 
