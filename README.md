@@ -39,4 +39,6 @@ java设计
 - 设计上的基本常识[http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html)
 - 配置设计[http://dubbo.apache.org/zh-cn/docs/dev/principals/configuration.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/configuration.html)
 - 设计实现的健壮性[http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html)
-
+- 设计实现的健壮性[http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html)
+- 防痴呆设计[http://dubbo.apache.org/zh-cn/docs/dev/principals/dummy.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/dummy.html)
+- 扩展点重构[http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html)
