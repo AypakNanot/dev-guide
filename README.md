@@ -42,3 +42,15 @@ java设计
 - 设计实现的健壮性[http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html)
 - 防痴呆设计[http://dubbo.apache.org/zh-cn/docs/dev/principals/dummy.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/dummy.html)
 - 扩展点重构[http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html](http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html)
+
+- [设计项目需要考虑[转]](https://www.iteye.com/blog/javatar-394883)：
+1. 中心领域模型是什么？
+2. 微核心是什么？
+3. 给用户的API是什么？
+4. 给扩展者的SPI是什么？
+5. 扩展者可否基于微核心替换任意位置上的实现？
+6. 服务域，实体域，会话域各是什么？
+7. 客户端，服务器端各自关心什么？
+8. 所有涉众都考虑周全了？
+9. 有哪些需要特殊化处理？是否可以抽象到一起？
+10. 设计有没有防碍非功能性需求的优化？
