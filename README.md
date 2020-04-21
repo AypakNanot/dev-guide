@@ -56,3 +56,4 @@ java设计
 10. 设计有没有防碍非功能性需求的优化？
 
 - [架构师入门知识体系树](https://www.iteye.com/blog/javatar-109730)
+- [7种坏味道，11种原则，23种模式](https://www.iteye.com/blog/javatar-41096)
