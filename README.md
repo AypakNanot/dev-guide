@@ -21,6 +21,9 @@
 - 以前版本 已停止维护 [vis.js](https://github.com/almende/vis)
 - [zookeeper ui](https://github.com/DeemOpen/zkui)
 - [oshi](https://github.com/oshi/oshi) Native Operating System and Hardware Information
+- [transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local) The missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits ThreadLocal values between threads even using thread pooling components.
+- [hutool](https://github.com/looly/hutool) A set of tools that keep Java sweet.
+
 
 谷歌访问助手
 -----------------------------------
